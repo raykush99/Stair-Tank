@@ -52,3 +52,4 @@ Today, I decided to add my motors and batteries into the CAD. Originally, I trie
 ![image](https://github.com/user-attachments/assets/b6300b54-02c8-4fda-8237-e4a0409fa547)
 ![image](https://github.com/user-attachments/assets/0de8ce34-d16a-4db9-bc4f-6f852c96a8a7)       
 **Time spent: 2 hours**
+
