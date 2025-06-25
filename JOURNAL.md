@@ -4,7 +4,7 @@ author: "Kush Ray"
 description: "A tank style RC car with camera that is able to go up and down stairs"
 created_at: "2025-06-14"
 ---
-**Total time spent: 13**
+**Total time spent: 15**
 
 **Day 1 June  13**       
 
@@ -51,5 +51,18 @@ Today, I decided to add my motors and batteries into the CAD. Originally, I trie
 ![image](https://github.com/user-attachments/assets/63faf58e-e27e-4e0e-ae77-bc1538ede891)
 ![image](https://github.com/user-attachments/assets/b6300b54-02c8-4fda-8237-e4a0409fa547)
 ![image](https://github.com/user-attachments/assets/0de8ce34-d16a-4db9-bc4f-6f852c96a8a7)       
+**Time spent: 2 hours**         
+
+**Day 7 June 25**
+Today, I posted my design on pitstop and got some feedback. I decided to add mounts for the motors (however, thety are only half since the panels naturally support the other half of the motors). I also decided to shrink the height of the tank, from 6" to 4". This will make it cheaper to build and save space, giving it more structural integrity. Furthermore, I decided to add simple models of the rest of the electronics. I put the motor controller at the end by the motors. The esp32 is put on the front panel, since its camera has a very small cabel. This way the camera can extrude from the from plate. The voltage stepdown and gyro are also in the front, by the esp32. Also, I decided to add brackets to the inner sides as a way of connecting the tread plates to the bottom plate. This will make it easier to glue the two plates together. I also updates my BOM to reflect the decrease in size of the treads.       
+![image](https://github.com/user-attachments/assets/c4ed86d2-6f73-4011-9462-65f93038884d)      
+![image](https://github.com/user-attachments/assets/141f24bf-2504-44b9-89f1-d3379e6ea2bf)      
+![image](https://github.com/user-attachments/assets/0f9dded5-d87e-447a-9375-68e8a4c40976)     
+![image](https://github.com/user-attachments/assets/33946a73-2627-4625-bb07-3b0e0b4232f5)      
 **Time spent: 2 hours**
+
+
+
+
+
 
