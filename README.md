@@ -26,13 +26,13 @@ Link to CAD (Onshape): https://cad.onshape.com/documents/d6d6bb7bf93de4f3ae31f12
 |Servo Motor|	9.99|	1	|9.99	|https://www.amazon.com/gp/product/B09BZ5955Z/ref=ox_sc_act_title_6?smid=A19FRW2DHVT2CC&th=1|
 |Battery	|15.99|	1	|15.99|	https://www.amazon.com/gp/product/B0C243MXMQ/ref=ox_sc_act_title_8?smid=A3FKMD6P089KQA&th=1|
 |Switch	|5.29|	1	|5.29	|https://www.amazon.com/Rocker-Switch%EF%BC%8C6Pcs-Latching-Pre-Wired-KCD1-X-Y/dp/B07L9JWVVR/ref=pd_ci_mcx_di_int_sccai_cn_d_sccl_1_3/147-2080373-2960609?pd_rd_w=DwtSH&content-id=amzn1.sym.751acc83-5c05-42d0-a15e 303622651e1e&pf_rd_p=751acc83-5c05-42d0-a15e-303622651e1e&pf_rd_r=546HWN4ZDGJN150SFFDJ&pd_rd_wg=p7Kxs&pd_rd_r=c3ec9eda-920d-4ffe-a6fc-3ae20d09d0dd&pd_rd_i=B07L9JWVVR&psc=1|
-|Voltage Stepdown|	8.99|	1	|8.99|	https://www.amazon.com/gp/product/B09DGDQ48H/ref=ox_sc_act_title_2?smid=A25NZ3OT6I61PQ&th=1|
+|Voltage Stepdown|	9.99|	1	|8.99|	https://www.amazon.com/gp/product/B09DGDQ48H/ref=ox_sc_act_title_2?smid=A25NZ3OT6I61PQ&th=1|
 |Esp32 microcontroller with camera	|14.99	|1	|14.99	|https://www.amazon.com/gp/product/B0F4DKTBR9/ref=ox_sc_act_title_5?smid=A23ZQFJGQ73FV0&th=1|
 |ABS 1/8"	|35.99|	1	|35.99	|https://www.amazon.com/gp/product/B0CLVQV2RW/ref=ox_sc_act_title_4?smid=A14NQTB8LBA47J&th=1|
 |ABS 0.06"	|17.99	|1	|17.99	|https://www.amazon.com/gp/product/B0B429DZ7H/ref=ox_sc_act_title_3?th=1|
 |16 awg wire|	7.99|	1	|7.99	|https://www.amazon.com/Voltage-Automotive-Primary-Security-Electrical/dp/B0CZ73SQP8/ref=sr_1_2_sspa?crid=TNFHVKPFUE72&dib=eyJ2IjoiMSJ9.tgm34ob3B7WC821lpVmxf3NEKAbAuB9GJ0DRpqhHz4-uBjxcHCWNqEXupN2EBFZqwbpAQW4VWJuJrokShvZvyhpIjy9F4xGjLgayTapsVQh8-3PsTvDSx9vnS93ea2anmusRbveVnu7sMWQKVYrjfEPWeMoMXb_7msnL4W9c8XHpqKlFqp1kY71KIZm5RLrw6Y255aDFuTc5SH27vlsA91nWg_ccahAX2fUlAMM6tRn14uZ6e87tzDtS9Er-LByUQLv4ksBUBLrj22Q-jPOf4TU7nlRZeOJI9bAvtg1-ePw.7iurm50NNOVwyTydYXc1Y_vdZZKrNv6zF0eu0taG5u0&dib_tag=se&keywords=16%2Bawg%2Bwire&qid=1750696359&sprefix=16%2Bawg%2Bwire%2Caps%2C107&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1|
-|electrical tape|	3.59	|1|	3.59|	https://www.amazon.com/Wapodeai-Electrical-Temperature-Resistance-Waterproof/dp/B07ZWC2VLX/ref=sr_1_9?crid=1H3I57038ZHK0&dib=eyJ2IjoiMSJ9.73K5im4-7IRrzaE7DmcBo1RH2I8DmX_EbT8fLtUtDJwkDwQomn9n2AWpFaCJjS4QFsvrIZY-NiZ8R0DSgcqBmKUaB1SsAXSCg4X8AbDS_uU49YgapFcF_EiOQ8T7TOr_7veulfDrvIZpNTnMUssi1kHWQZ4BdcUENvEbH_gI-mw_ZcOuw_ZroquJV9L0gkUqyGPGaDM0HnFE0XjdRhUpPpDtHC6pNFadQlGuEtkm74s.wWxpfmIW2RpQlcayG87ZmsrH5XarQ4aF2vtetpZCoJ8&dib_tag=se&keywords=electrical%2Btape&qid=1750696413&sprefix=electrical%2Btapw%2Caps%2C113&sr=8-9&th=1|
+|electrical tape|	3.69	|1|	3.59|	https://www.amazon.com/Wapodeai-Electrical-Temperature-Resistance-Waterproof/dp/B07ZWC2VLX/ref=sr_1_9?crid=1H3I57038ZHK0&dib=eyJ2IjoiMSJ9.73K5im4-7IRrzaE7DmcBo1RH2I8DmX_EbT8fLtUtDJwkDwQomn9n2AWpFaCJjS4QFsvrIZY-NiZ8R0DSgcqBmKUaB1SsAXSCg4X8AbDS_uU49YgapFcF_EiOQ8T7TOr_7veulfDrvIZpNTnMUssi1kHWQZ4BdcUENvEbH_gI-mw_ZcOuw_ZroquJV9L0gkUqyGPGaDM0HnFE0XjdRhUpPpDtHC6pNFadQlGuEtkm74s.wWxpfmIW2RpQlcayG87ZmsrH5XarQ4aF2vtetpZCoJ8&dib_tag=se&keywords=electrical%2Btape&qid=1750696413&sprefix=electrical%2Btapw%2Caps%2C113&sr=8-9&th=1|
 |Gyro sensor|	0	|1|	0	|own|
-|Total Price		|	190.09|	
+|Total Price		|	191.19|	
 
 
