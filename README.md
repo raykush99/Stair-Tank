@@ -6,7 +6,11 @@ I choose to build a tank since I have always wanted to make a remote control veh
     
 ![image](https://github.com/user-attachments/assets/e101c0d2-64ee-431e-9c25-2d7900bf3b62)  
 ![image](https://github.com/user-attachments/assets/0f0ec822-f1a1-48f0-be8a-b9ab0d997870)
-![image](https://github.com/user-attachments/assets/0f0ec822-f1a1-48f0-be8a-b9ab0d997870)
+![image](https://github.com/user-attachments/assets/7552fb76-e8b0-4655-8ef2-46ee36ecefd9)
+![image](https://github.com/user-attachments/assets/31cc0990-8e86-4f3e-8e6b-a2e818a564c5)
+
+
+
 
 
 Link to CAD (Onshape): https://cad.onshape.com/documents/d6d6bb7bf93de4f3ae31f129/w/25eb983e419df71b24cec945/e/f8c954a92f54aa28a42e1b83?renderMode=0&uiState=685c3f61fcfe200019a504cc
