@@ -5,7 +5,9 @@ Simply put, my project is a tank that can climb stairs. It is a RC car that uses
 I choose to build a tank since I have always wanted to make a remote control vehicle that can go anywhere. I always dreamed of being able to sit in any room and drive a car around the house, using a camera to see where it is. But I always face a boundry, since most RC cars are limited to being on one floor. Due to this, I decided to make something that can go up and down stairs, giving it almost limitless reach. From this also came the idea of being anywhere in the house, and being able to call the tank to come to your position. Or sitting in the basement and sending a box upsatirs on the car without moving muscle. This is what inspired me to make a RC car that can go anywhere, even up stairs.       
 ![image](https://github.com/user-attachments/assets/04ace756-90ef-45bb-bce7-0fb7eae2fcd4)     
 ![image](https://github.com/user-attachments/assets/46c1db81-17e0-4ba3-813f-de368f082883)       
-![image](https://github.com/user-attachments/assets/e101c0d2-64ee-431e-9c25-2d7900bf3b62)     
+![image](https://github.com/user-attachments/assets/e101c0d2-64ee-431e-9c25-2d7900bf3b62)       
+
+Link to CAD (Onshape): https://cad.onshape.com/documents/d6d6bb7bf93de4f3ae31f129/w/25eb983e419df71b24cec945/e/f8c954a92f54aa28a42e1b83?renderMode=0&uiState=685c3f61fcfe200019a504cc
 
 **BOM**      
 
