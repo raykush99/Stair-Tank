@@ -4,7 +4,7 @@ author: "Kush Ray"
 description: "A tank style RC car with camera that is able to go up and down stairs"
 created_at: "2025-06-14"
 ---
-**Total time spent: 15**
+**Total time spent: 15.5 desiging + 4.5 on github = 20 hours total**
 
 **Day 1 June  13**       
 
@@ -28,7 +28,7 @@ Today was mainly for finding the parts to build the tank. I decided to use lego 
 **Time spent: 1 hour**
 
 **Day 4 June 19**            
-Today I edited my cad to change the size based on parts I found and to add more detail. I started by adding detail to the gears. Then, I had to make the axles and space between the tread panels bigger, since the LEGO treads I found were bigger than I expected. After making this change, I had to fix my assembly, since the editing of the size caused some elements to become offset and merge. I also had to edit some dimensions of the panels to adjust for the large tread size. Finally, I added the treads to my design. This was the hardest and most time consuming part, since the treads werean irrugular shape. I wasn't able to animate the treads, but I was able to make a static design to simulate where they would go. I also added revolve mates and gear relations on the axle and gears to show how they will all move together.              
+Today I edited my cad to change the size based on parts I found and to add more detail. I started by adding detail to the gears. Then, I had to make the axles and space between the tread panels bigger, since the LEGO treads I found were bigger than I expected. After making this change, I had to fix my assembly, since the editing of the size caused some elements to become offset and merge. I also had to edit some dimensions of the panels to adjust for the large tread size. Finally, I added the treads to my design. This was the hardest and most time consuming part, since the treads were an irrugular shape. I wasn't able to animate the treads, but I was able to make a static design to simulate where they would go. I also added revolve mates and gear relations on the axle and gears to show how they will all move together.              
 ![image](https://github.com/user-attachments/assets/ff4bdb19-f4bc-40a0-b86c-6fc99675db0e)
 ![image](https://github.com/user-attachments/assets/5ba62cbd-a306-49af-b9a0-f6ca8c1355c2)                                
 
@@ -54,12 +54,12 @@ Today, I decided to add my motors and batteries into the CAD. Originally, I trie
 **Time spent: 2 hours**         
 
 **Day 7 June 25**
-Today, I posted my design on pitstop and got some feedback. I decided to add mounts for the motors (however, thety are only half since the panels naturally support the other half of the motors). I also decided to shrink the height of the tank, from 6" to 4". This will make it cheaper to build and save space, giving it more structural integrity. Furthermore, I decided to add simple models of the rest of the electronics. I put the motor controller at the end by the motors. The esp32 is put on the front panel, since its camera has a very small cabel. This way the camera can extrude from the from plate. The voltage stepdown and gyro are also in the front, by the esp32. Also, I decided to add brackets to the inner sides as a way of connecting the tread plates to the bottom plate. This will make it easier to glue the two plates together. I also updates my BOM to reflect the decrease in size of the treads.       
+Today, I posted my design on pitstop and got some feedback. I decided to add mounts for the motors (however, thety are only half since the panels naturally support the other half of the motors). I also decided to shrink the height of the tank, from 6" to 4". This will make it cheaper to build and save space, giving it more structural integrity. Making this change was not too bad since I used con·straints previously, so most parts self corrected. Furthermore, I decided to add simple models of the rest of the electronics. I put the motor controller at the end by the motors. The esp32 is put on the front panel, since its camera has a very small cabel. This way the camera can extrude from the from plate. The voltage stepdown and gyro are also in the front, by the esp32. Also, I decided to add brackets to the inner sides as a way of connecting the tread plates to the bottom plate. This will make it easier to glue the two plates together. I also updates my BOM to reflect the decrease in size of the treads.       
 ![image](https://github.com/user-attachments/assets/c4ed86d2-6f73-4011-9462-65f93038884d)      
 ![image](https://github.com/user-attachments/assets/141f24bf-2504-44b9-89f1-d3379e6ea2bf)      
 ![image](https://github.com/user-attachments/assets/0f9dded5-d87e-447a-9375-68e8a4c40976)     
 ![image](https://github.com/user-attachments/assets/33946a73-2627-4625-bb07-3b0e0b4232f5)      
-**Time spent: 2 hours**
+**Time spent: 2.5 hours**
 
 
 
