@@ -88,4 +88,22 @@ Final building day. I assembled the chassis by connecting the side panels to the
 <img width="1125" height="466" alt="image" src="https://github.com/user-attachments/assets/f370ed7c-485b-4c2b-97bc-4d9f9cbec9eb" />
 <img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/0e4c9841-33ee-4820-9e7b-7f0ee2f16124" />
 
+**Coding Day 1**
+I started coding the tank. I started by creating a new folder on the pi, and then made a code to enable and view the camera feed from the tank. I then started making functions that move the robot in specific directions. I figured out how to enable GPIO pins and set different ones one to move the motors to move the robot. When I tested, it didn't work and I realized I needed to add PWM control to enable to motor control. So I research how to do PWM on the pi, and added the PWM control to each of the functions. I tested and it managed to work. I then added a variable to the functions to adjust speed of the robot and tested, realizing the robot won't move if the motors run at a speed less than 50%.
+
+**Coding Day 2**
+Today, I started making the server to run the tank. I used flask to set up a server to be able to view the camera feed of the pi on my normal computer. After I figured that out, I wanted to add controller control. I realized I can use the flask server, connect an xbox controller to the computer and control the tank. I set up the code for the browser to recieve controller input and set it to the pi, and tested it to move the robot (using the functions I created before). I got the  controller to send one signal and start the robot, but then it stopped sending signals and I couldn't control the robot anymore. Next time, I have to make the data transfer more consistent.
+
+**Coding Day 3**
+Today, I figured out how to use data from other buttons on the controller to control things like servos. I also wrote the code to not only move the robot forward and back, but also turn it left and right. I got the data to send more consistently.
+
+**Build again**
+During testing, a motor came off, so I had to re attach that, reinforcing it by adding foam underneath to hold it in place. Next, I decided to attach the arms to the tank and added the servo mount tot he arm and bottom panel. I am waiting to attach the servo until I can set it to position zero.
+<img width="822" height="484" alt="image" src="https://github.com/user-attachments/assets/c643e5ce-f282-4275-a05b-24d093d6b4fa" />
+
+**Coding Day 4**
+I started by learning how to move a servo using a pi without jitter. I decided to use the pigpio library and tested using the servo. After setting it to zero, attach it onto the tank chassis. However, the pigpio library requiers a pulse value 500-2500 to move the servo. I wrote a function in which I can input an angle and it converts it to the pulse value required to go to that angle and sets the servo to that angle.
+
+**Coding Day 5**
+While testing, the data transfer failed again, and I got it to work but it stopped the camera feed from showing. To fix this, I decided to move the camera feed to its own sub-process so it doesn't steal processing from the controller data transfer. I tested again and got the data to transfer consistently while still showing camera feed. fter that, I added all the button commands into the html code and used three buttons in the python code to set the servo to set angle values. I programmed the buttons to control the servo, and tested it to see it run. Finally, I decided to run the server program on startup, trying to use the crowtab method first, but that failed. Next I tried using a system document to run the terminal command to run the program. I tested it and it worked, and will test for consistently next time.
 
